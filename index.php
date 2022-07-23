@@ -25,7 +25,7 @@
         <h3>Inserte su cosas</h3>
         <input type="number" name="cod_Estu">
         <input type="text" name="nomb_est">
-        <button type="submit">insertar</button>
+        <button type="submit">insertarpirchurria</button>
     </form>
 </body>
 </html>
